@@ -9,4 +9,10 @@ https://github.com/psiva1/bdsassignment2/blob/main/restaurant.json
 Imported the json with the command 
 mongoimport --db businessDB --collection companies --file /Users/siva_pothapragada/Documents/db/restaurant.json --jsonArray
 
+Show databases to get list of dbs 
+
+use <dbname>
+
+show collections
+
 
